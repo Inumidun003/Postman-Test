@@ -1,0 +1,5 @@
+About Me
+Hi, I’m Grace, an aspiring Quality Assurance (QA) Tester passionate about software testing and technology. I’m currently learning manual testing, test case writing, bug reporting, Git, and GitHub.
+I’m building my practical skills through hands-on projects and continuously learning how to identify issues, improve software quality, and deliver better user experiences.
+My goal is to grow into a skilled QA professional, gain real-world experience, and contribute to building reliable, user-friendly software.
+I’m open to learning opportunities, internships, and entry-level QA roles.
